@@ -2,23 +2,9 @@
 
 ★事前準備★
 
-ご自分の「Googleドライブ」の「MyDrive」に 以下のフォルダ構成と
+StableDiffusion.zipファイルをダウンロードし解凍する。
+その後ご自身のGoogleドライブにドラッグ&ドロップし保存する。
 
-任意でGoogleColab上の「Stable-Diffusion_WEB-UI」で使用したいデータを格納してください。
-
-MyDrive
-
-└StableDiffusion
-
-　└Checkpoint　※使用したいモデルデータを格納
-
-　└ControlNet　※ツール用モデルを格納
-
-　└Embeddings　※EasyNegativeなどを格納
-
-　└Lora　※使用したいLoRAデータを格納
-
-　└VAE　※使用したいVAEデータを格納
-
-└Config　※使用したいconfigデータを格納
-
+StableDiffusion_AUTOMATIC1111.ipynbファイルをダウンロードする。
+Google colabと検索しノートブックを新規作成を押し、ファイルからノートブックを開くを選択。
+アップロードを押し先ほどダウンロードしたノートブックをドラッグ&ドロップまたは参照から選択
